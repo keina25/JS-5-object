@@ -200,3 +200,5 @@ obj.hasOwnProperty('toString')  //false
 
 - 'xxx' in obj 并不知道查看的是自身属性还是共有属性；
 - obj.hasOwnProperty(‘xxx')查看的是自身的属性
+
+> 引用：[https://wangdoc.com/javascript/types/object.html](https://wangdoc.com/javascript/types/object.html) > [https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Working_with_Objects](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Working_with_Objects)
